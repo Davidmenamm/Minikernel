@@ -2,4 +2,4 @@ READ ME
 
 The program implements all necessary things, the only thing missing is the algorithms to schedule. Currently it works as a FIFO.
 
-Contributor: Daniel Fellig and David Mena.
+Contributors: Daniel Fellig and David Mena.
